@@ -63,4 +63,3 @@ qrencode -t ansiutf8 < /etc/wireguard/clients/$USERNAME/$USERNAME.conf
 # Show config file
 echo "# Display $USERNAME.conf"
 cat /etc/wireguard/clients/$USERNAME/$USERNAME.conf
-
