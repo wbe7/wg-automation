@@ -1,5 +1,10 @@
 # WG Automation
 
+## Prerequisites
+
+1. You should open port 51830 on your server.
+2. This automation has been tested on an Ubuntu 20.04 server.
+
 ## Install Command
 
 ```bash
